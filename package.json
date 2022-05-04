@@ -1,0 +1,22 @@
+{
+  "name": "com.sorceressspell.librarioh.unity.developmentscreenshotter",
+  "displayName": "LibrarIoh.Unity.DevelopmentScreenshotter",
+  "version": "0.1.0",
+  "type": "tool",
+  "unity": "2018.1",
+  "description": "LibrarIoh.Unity.DevelopmentScreenshotter (https://github.com/SorceressSpell/LibrarIoh.Unity.DevelopmentScreenshotter)\n\nAn automatic screenshoter tool to record a game's development process for Unity.\n\nDepends on:\n  - LibrarIoh.Core (https://github.com/SorceressSpell/LibrarIoh.Core)\n  - LibrarIoh.IO (https://github.com/SorceressSpell/LibrarIoh.IO)",
+  "dependencies": {
+    "com.sorceressspell.librarioh.core": "0.3.0",
+    "com.sorceressspell.librarioh.io": "0.2.0"
+  },
+  "author": {
+    "name": "Sorceress' Spell",
+    "email": "Sorceress.Spell@gmail.com",
+    "url": "http://SorceressSpell.com"
+  },
+  "keywords": [
+    "librarioh",
+    "unity",
+    "developmentscreenshotter"
+  ]
+}

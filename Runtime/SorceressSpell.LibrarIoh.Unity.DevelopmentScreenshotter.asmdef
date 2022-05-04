@@ -1,0 +1,17 @@
+{
+    "name": "SorceressSpell.LibrarIoh.Unity.DevelopmentScreenshotter",
+    "rootNamespace": "SorceressSpell.LibrarIoh.Unity.DevelopmentScreenshotter",
+    "references": [
+        "SorceressSpell.LibrarIoh.Core",
+        "SorceressSpell.LibrarIoh.IO"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
