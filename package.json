@@ -7,7 +7,8 @@
   "description": "LibrarIoh.Unity.DevelopmentScreenshotter (https://github.com/SorceressSpell/LibrarIoh.Unity.DevelopmentScreenshotter)\n\nAn automatic screenshoter tool to record a game's development process for Unity.\n\nDepends on:\n  - LibrarIoh.Core (https://github.com/SorceressSpell/LibrarIoh.Core)\n  - LibrarIoh.IO (https://github.com/SorceressSpell/LibrarIoh.IO)",
   "dependencies": {
     "com.sorceressspell.librarioh.core": "0.3.0",
-    "com.sorceressspell.librarioh.io": "0.2.0"
+    "com.sorceressspell.librarioh.io": "0.2.0",
+    "com.unity.modules.screencapture": "1.0.0"
   },
   "author": {
     "name": "Sorceress' Spell",
